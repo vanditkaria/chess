@@ -34,7 +34,7 @@ Chess GUI Python : sudo pip3 install python-chess
 This project is licensed under the MIT License - see the LICENSE file for details
 
 
-### Reference:
+### Understanding the Alogirthm:
 https://www.youtube.com/watch?v=STjW3eH0Cik
 Prof. Patrick Winston has explained the Algotihms very well, from why using to how using it transformed the way games are played by the computer, He further explains how the world-class chess algorithms have gained the benefit from the algorithms. 
 
