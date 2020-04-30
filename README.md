@@ -1,5 +1,9 @@
 # chess
 
+
+![](https://github.com/vanditkaria/chess/blob/master/chess/1_fTWDdJ2m3L72X6rqce9_tQ.gif)
+
+
 ### Introduction:
 This project is entirely for learning the basics of AI such as minimax, alpha-beta pruning, etc.
 
