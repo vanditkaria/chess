@@ -3,7 +3,7 @@
 ### Introduction:
 This project is entirely for learning the basics of AI such as minimax, alpha-beta pruning, etc.
 
-We use Alpha Beta Pruning on MiniMax Alogirthm where we create a search tree from which the algorithm can chose the best move. This is done by using the Minimax algorithm.
+We use Alpha Beta Pruning on MiniMax Alogirthm where we create a search tree from which the algorithm can choose the best move. This is done by using the Minimax algorithm.
 
 In this algorithm, the recursive tree of all possible moves is explored to a given depth, and the position is evaluated at the ending “leaves” of the tree.
 
